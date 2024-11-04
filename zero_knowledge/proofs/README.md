@@ -56,6 +56,7 @@
 * **[nova](nova)**
 * **[bulletproofs](bulletproofs)**
 * **[kate](kate)**
+* **[circom](circom)**
 
 <br>
 
