@@ -79,6 +79,7 @@
 * **the state of zk applications in ethereum, by andyguzman.eth: [1](https://mirror.xyz/andyguzman.eth/p4nNk7Rr-2i-uZDO_lTHJEWtNv3nYt2N2z3Cwly8RHc) and [2](https://mirror.xyz/andyguzman.eth/ZZRLBlx2KjlNnQ84v1doMKg_8QO-XRjYxFfT1Fm_ZDw)**
  * **[an incomplete guide to folding, by taiko labs](https://taiko.mirror.xyz/tk8LoE-rC2w0MJ4wCWwaJwbq8-Ih8DXnLUf7aJX1FbU)**
 * **[zeroing into zkvms, by taiko labs](https://taiko.mirror.xyz/e_5GeGGFJIrOxqvXOfzY6HmWcRjCjRyG0NQF1zbNpNQ)**
+* **[awesome zk list](https://github.com/ventali/awesome-zk)**
 
 <br>
 
