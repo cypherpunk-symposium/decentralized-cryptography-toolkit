@@ -73,11 +73,12 @@
 * **[the zk-ECDSA landscape, by pse](https://mirror.xyz/privacy-scaling-explorations.eth/djxf2g9VzUcss1e-gWIL2DSRD4stWggtTOcgsv1RlxY)**
 * **[zero knowledge dapp from 0 to production, by v. plasencia](https://vivianblog.hashnode.dev/how-to-create-a-zero-knowledge-dapp-from-zero-to-production)**
 * **[an evolution of models for zkps, by s. meiklejohn](https://youtube.com/watch?v=HO97kVMI3SE&t=2s)**
-* **[an incomplete guide to folding, by taiko](https://taiko.mirror.xyz/tk8LoE-rC2w0MJ4wCWwaJwbq8-Ih8DXnLUf7aJX1FbU)**
 * **[a new era: safe deploys on zksync era](https://safe.mirror.xyz/yvnFJxFWrlHTXZFBLfQiKuPyW7zwa2TSurXz5Btl9Jk)**
 * **[binius: highly efficient proofs over binary fields, by vub](https://vitalik.eth.limo/general/2024/04/29/binius.html)**
 * **[possible futures of the ethereum protocol, part 4: the verge, by vub](https://vitalik.eth.limo/general/2024/10/23/futures4.html)**
 * **the state of zk applications in ethereum, by andyguzman.eth: [1](https://mirror.xyz/andyguzman.eth/p4nNk7Rr-2i-uZDO_lTHJEWtNv3nYt2N2z3Cwly8RHc) and [2](https://mirror.xyz/andyguzman.eth/ZZRLBlx2KjlNnQ84v1doMKg_8QO-XRjYxFfT1Fm_ZDw)**
+ * **[an incomplete guide to folding, by taiko labs](https://taiko.mirror.xyz/tk8LoE-rC2w0MJ4wCWwaJwbq8-Ih8DXnLUf7aJX1FbU)**
+* **[zeroing into zkvms, by taiko labs](https://taiko.mirror.xyz/e_5GeGGFJIrOxqvXOfzY6HmWcRjCjRyG0NQF1zbNpNQ)**
 
 <br>
 
