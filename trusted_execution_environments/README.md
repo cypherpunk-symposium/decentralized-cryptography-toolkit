@@ -11,6 +11,7 @@
 * **[linux instalation guides](https://download.01.org/intel-sgx/latest/linux-latest/docs)**
 * **[intel SGX explained, by costan et al.](https://eprint.iacr.org/2016/086.pdf)**
 * **[secure computation in rust: using intel's SGX  with teaclave && fortanix](https://blog.lambdaclass.com/secure-computation-in-rust-using-intels-sgx-instructions-with-teaclave-and-fortanix/)**
+* **[2fa zk-rollups using sgx, by j. drake](https://ethresear.ch/t/2fa-zk-rollups-using-sgx/14462)**
 
 <br>
 
