@@ -51,3 +51,4 @@
 <br>
 
 * **[demystifying remote attestation by taking it on-chain, by flashbots](https://collective.flashbots.net/t/demystifying-remote-attestation-by-taking-it-on-chain/2629)**
+* **[spacecoin, by d. bar et al. (leveraging satellite infra for tee-like functionality)](https://github.com/spacecoinxyz/research/blob/main/publications/Blue-Paper-Spacecoinxyz.pdf)**
