@@ -19,6 +19,7 @@
 ##### cloud providers
 
 * **[nitro enclaves at aws](https://aws.amazon.com/ec2/nitro/nitro-enclaves/)**
+* **[a few notes on aws nitro enclaves: attack surface, by p. platek](https://blog.trailofbits.com/2024/09/24/notes-on-aws-nitro-enclaves-attack-surface/)**
 
 <br>
 
