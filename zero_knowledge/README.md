@@ -80,6 +80,7 @@
  * **[an incomplete guide to folding, by taiko labs](https://taiko.mirror.xyz/tk8LoE-rC2w0MJ4wCWwaJwbq8-Ih8DXnLUf7aJX1FbU)**
 * **[zeroing into zkvms, by taiko labs](https://taiko.mirror.xyz/e_5GeGGFJIrOxqvXOfzY6HmWcRjCjRyG0NQF1zbNpNQ)**
 * **[awesome zk list](https://github.com/ventali/awesome-zk)**
+* **[awesome starknet](https://github.com/keep-starknet-strange/awesome-starknet)**
 
 <br>
 
