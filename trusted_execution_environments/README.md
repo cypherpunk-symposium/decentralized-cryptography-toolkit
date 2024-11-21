@@ -31,10 +31,11 @@
 
 <br>
 
-##### cloud providers
+##### other providers
 
 * **[nitro enclaves at aws](https://aws.amazon.com/ec2/nitro/nitro-enclaves/)**
 * **[a few notes on aws nitro enclaves: attack surface, by p. platek](https://blog.trailofbits.com/2024/09/24/notes-on-aws-nitro-enclaves-attack-surface/)**
+* **[keystone enclave (open framework for architecting tee)](https://keystone-enclave.org/)**
 
 <br>
 
