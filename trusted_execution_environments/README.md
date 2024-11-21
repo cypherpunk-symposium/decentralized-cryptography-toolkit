@@ -32,6 +32,13 @@
 
 <br>
 
+##### attestations
+
+* **[fortanix](https://edp.fortanix.com/docs/examples/attestation/)**
+* **[automata](https://www.ata.network/)**
+
+<br>
+
 ##### quantum settings
 
 * **[is the security of quantum cryptography guaranteed by the laws of physics?, by bernstein](https://arxiv.org/pdf/1803.04520)**
