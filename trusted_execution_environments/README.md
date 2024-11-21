@@ -2,7 +2,15 @@
 
 <br>
 
-### hardware
+<p align="center">
+<img src="https://github.com/user-attachments/assets/9e72ad3d-2e3c-458b-aa2f-756dc59d3ab2" width="70%" align="center"/>
+</p>
+
+<br>
+
+----
+
+### cool resources
 
 <br>
 
@@ -24,11 +32,7 @@
 
 <br>
 
----
-
-### quantum settings
-
-<br>
+##### quantum settings
 
 * **[is the security of quantum cryptography guaranteed by the laws of physics?, by bernstein](https://arxiv.org/pdf/1803.04520)**
 * **[the laws of physics and cryptographic security; by rudolph](https://arxiv.org/pdf/quant-ph/0202143)**
@@ -36,21 +40,13 @@
 
 <br>
 
----
-
-### offensive
-
-<br>
+##### offensive
 
 * **[using memory errors to attack a virtual machine, by govindavajhala et al.](https://www.cs.princeton.edu/~appel/papers/memerr.pdf)**
 
 <br>
 
-----
-
-### blockchain specific
-
-<br>
+##### on blockchains
 
 * **[demystifying remote attestation by taking it on-chain, by flashbots](https://collective.flashbots.net/t/demystifying-remote-attestation-by-taking-it-on-chain/2629)**
 * **[spacecoin, by d. bar et al. (leveraging satellite infra for tee-like functionality)](https://github.com/spacecoinxyz/research/blob/main/publications/Blue-Paper-Spacecoinxyz.pdf)**
