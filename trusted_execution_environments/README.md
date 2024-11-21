@@ -13,6 +13,7 @@
 * **[secure computation in rust: using intel's SGX  with teaclave && fortanix](https://blog.lambdaclass.com/secure-computation-in-rust-using-intels-sgx-instructions-with-teaclave-and-fortanix/)**
 * **[2fa zk-rollups using sgx, by j. drake](https://ethresear.ch/t/2fa-zk-rollups-using-sgx/14462)**
 * **[why multi-prover matters, sgx as a possible solution, by taiko labs](https://taiko.mirror.xyz/Kx1Mp4WJjd83K1KDEwp1pM7xi9QmpSahxJg3S_N7NE4)**
+* **[autonomous tees manifest, by poeticte](https://poeticte.ch/posts/autonomous-TEEs-manifesto.html)**
 
 <br>
 
