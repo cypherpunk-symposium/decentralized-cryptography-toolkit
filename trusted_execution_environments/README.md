@@ -50,6 +50,7 @@
 
 * **[is the security of quantum cryptography guaranteed by the laws of physics?, by bernstein](https://arxiv.org/pdf/1803.04520)**
 * **[the laws of physics and cryptographic security; by rudolph](https://arxiv.org/pdf/quant-ph/0202143)**
+* **[qtee, sarching for security through physics](https://github.com/sbellem/qtee)**
 * **[introduction to quantum information, by bt3gl](https://www.astro.sunysb.edu/steinkirch/books/qi.pdf)**
 
 <br>
