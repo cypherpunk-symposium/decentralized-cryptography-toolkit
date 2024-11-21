@@ -14,6 +14,12 @@
 
 <br>
 
+##### full autonomous agents
+
+* **[setting your pet rock free, by teleport](https://medium.com/@tee_hee_he/setting-your-pet-rock-free-3e7895201f46)**
+
+<br>
+
 ##### sgx stuff
 
 * **[linux instalation guides](https://download.01.org/intel-sgx/latest/linux-latest/docs)**
