@@ -58,6 +58,7 @@
 ##### offensive
 
 * **[using memory errors to attack a virtual machine, by govindavajhala et al.](https://www.cs.princeton.edu/~appel/papers/memerr.pdf)**
+* **[ztee, trustless suply chains, by flashbots](https://writings.flashbots.net/ZTEE2-Supply-Chains)**
 
 <br>
 
