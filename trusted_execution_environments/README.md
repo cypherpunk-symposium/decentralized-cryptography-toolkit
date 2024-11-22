@@ -31,7 +31,7 @@
 
 <br>
 
-##### other providers
+##### cloud providers and framework
 
 * **[nitro enclaves at aws](https://aws.amazon.com/ec2/nitro/nitro-enclaves/)**
 * **[a few notes on aws nitro enclaves: attack surface, by p. platek](https://blog.trailofbits.com/2024/09/24/notes-on-aws-nitro-enclaves-attack-surface/)**
@@ -66,3 +66,4 @@
 
 * **[demystifying remote attestation by taking it on-chain, by flashbots](https://collective.flashbots.net/t/demystifying-remote-attestation-by-taking-it-on-chain/2629)**
 * **[spacecoin, by d. bar et al. (leveraging satellite infra for tee-like functionality)](https://github.com/spacecoinxyz/research/blob/main/publications/Blue-Paper-Spacecoinxyz.pdf)**
+* **[multi-prover implementation on scroll (leveraging tees)](https://scroll.io/blog/scaling-security)**
