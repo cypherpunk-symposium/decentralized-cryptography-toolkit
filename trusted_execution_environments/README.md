@@ -28,6 +28,7 @@
 * **[2fa zk-rollups using sgx, by j. drake](https://ethresear.ch/t/2fa-zk-rollups-using-sgx/14462)**
 * **[why multi-prover matters, sgx as a possible solution, by taiko labs](https://taiko.mirror.xyz/Kx1Mp4WJjd83K1KDEwp1pM7xi9QmpSahxJg3S_N7NE4)**
 * **[autonomous tees manifest, by poeticte](https://poeticte.ch/posts/autonomous-TEEs-manifesto.html)**
+* **[hardware-supported trusted execution environments, by m. schneider et al.](https://arxiv.org/pdf/2205.12742)**
 
 <br>
 
@@ -40,6 +41,14 @@
 <br>
 
 ##### attestations
+
+<br>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/5763e0ff-095e-49cf-ae87-e3d08a5a38ee" width="70%" align="center"/>
+</p>
+
+<br>
 
 * **[fortanix](https://edp.fortanix.com/docs/examples/attestation/)**
 * **[automata](https://www.ata.network/)**
