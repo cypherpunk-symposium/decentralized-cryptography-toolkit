@@ -7,3 +7,4 @@
 * ⬛️ **[trusted execution environments](trusted_execution_environments)**
 * ⬛️ **[multi-party computation](multi_party_computation)**
 * ⬛️ **[(full) homomorphic encryption](homomorphic_encryption)**
+* ⬛️ **[wallets and identity](wallets_and_identity)**
