@@ -84,7 +84,8 @@
 
 #### papers
 
-* **[succinct network: prove the world's software, by u. roy et al.](https://www.provewith.us/)**
+* **[succinct network: prove the world's software, by u. roy et al. (2024)](https://www.provewith.us/)**
+* **[starknet ecosystem intro and analysis, by j. obem at messari (2024)](https://messari.io/report/starknet-ecosystem-analysis)**
 
 <br>
 
@@ -95,6 +96,7 @@
 <br>
 
 #### coprocessors provers
+
 * **[langrage network](https://www.lagrange.dev/)** (hyper-parallel zk coprocessing)
 * **[brevis](https://brevis.network/)** (a smart zk coprocessor for blockchains)
 * **[herodotus](https://herodotus.dev/)** (cryptographic integrity verification)
@@ -102,12 +104,14 @@
 <br>
 
 #### optimistic verifcation provers
+
 * **[uma protocol](https://uma.xyz/)**
 * **[accross protocol](https://github.com/across-protocol)**
 
 <br>
 
 #### zk-circuits provers
+
 * **[succinct](https://github.com/succinctlabs/sp1-contract-call)**
 
 <br>
