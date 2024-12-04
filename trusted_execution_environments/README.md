@@ -69,6 +69,8 @@
 * **[using memory errors to attack a virtual machine, by govindavajhala et al.](https://www.cs.princeton.edu/~appel/papers/memerr.pdf)**
 * **ztee, trustless suply chains, by q. kilbourn: [part I](https://writings.flashbots.net/ZTEE) and [part II](https://writings.flashbots.net/ZTEE2-Supply-Chains)**
 * **[openai's take on ai infrastructure threat model](https://openai.com/index/reimagining-secure-infrastructure-for-advanced-ai/)**
+* **[the 5 levels of secure hardware, by g. konstantopoulos](https://www.paradigm.xyz/2024/11/the-5-levels-of-secure-hardware)**
+
 <br>
 
 ##### on blockchains
