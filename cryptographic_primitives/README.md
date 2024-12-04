@@ -32,10 +32,22 @@
 
 <br>
 
-* **[number theory course by stanford](https://crypto.stanford.edu/pbc/notes/numbertheory/)**
-* **[pairing-friendly elliptic curves of prime order](https://eprint.iacr.org/2005/133.pdf)**
-* **[intro to differential power analysis](https://link.springer.com/content/pdf/10.1007/s13389-011-0006-y.pdf)**
-* **[the 12 commandments of synchronization](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.227.3871&rep=rep1&type=pdf)**
-* **[ring confidential transactions](https://eprint.iacr.org/2015/1098.pdf)**
-* **[galois fields, part one](https://www.youtube.com/watch?v=yBVqk4YM2VY)**
-* **[bls multi-signatures with pub-key aggregation](https://crypto.stanford.edu/~dabo/pubs/papers/BLSmultisig.html)**
+#### cool courses
+
+* **[number theory course by stanford (2023)](https://crypto.stanford.edu/pbc/notes/numbertheory/)**
+* **[galois fields, part one (2020)](https://www.youtube.com/watch?v=yBVqk4YM2VY)**
+  
+<br>
+
+#### cool papers
+
+* **[bls multi-signatures with pub-key aggregation (2018)](https://crypto.stanford.edu/~dabo/pubs/papers/BLSmultisig.html)**
+* **[ring confidential transactions (2015)](https://eprint.iacr.org/2015/1098.pdf)**
+* **[intro to differential power analysis (2011)](https://link.springer.com/content/pdf/10.1007/s13389-011-0006-y.pdf)**
+* **[pairing-friendly elliptic curves of prime order (2005)](https://eprint.iacr.org/2005/133.pdf)**
+
+<br>
+
+#### cool talks
+
+* **[programmable cryptography devcon panel, by barry and gang (2024)](https://www.youtube.com/watch?v=S6ixhGBnvKc)**
