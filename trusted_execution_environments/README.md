@@ -17,6 +17,7 @@
 ##### full autonomous agents
 
 * **[setting your pet rock free, by teleport](https://medium.com/@tee_hee_he/setting-your-pet-rock-free-3e7895201f46)**
+* **[the truth of ai agents, by phala](https://phala.network/posts/truth-of-AI-Agent)**
 
 <br>
 
