@@ -50,4 +50,5 @@
 
 #### cool talks
 
+* **[an introduction to cryptography, new and old, by atheartengineer et al. (2024)](https://www.youtube.com/watch?v=E6u3uQGP9J4)**
 * **[programmable cryptography devcon panel, by barry and gang (2024)](https://www.youtube.com/watch?v=S6ixhGBnvKc)**
