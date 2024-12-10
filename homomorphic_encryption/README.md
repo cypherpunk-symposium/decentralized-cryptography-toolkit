@@ -1,4 +1,4 @@
-## (full) homomorphic encryption
+## (fully) homomorphic encryption
 
 <br>
 
@@ -8,8 +8,9 @@
 
 #### cool readings
 
-* **[a fully homomorphic encryption scheme, by c. gentry (2009)](https://crypto.stanford.edu/craig/craig-thesis.pdf)**
+* **[confidential evm smart contracts with fhe, by zama (2024)](https://github.com/zama-ai/fhevm/blob/main/fhevm-whitepaper-v2.pdf)** (propose a solution combining fhe for confidential computation, threshold mpc protocols for fhe key generation and ciphertexts decryption, and zk proofs of knowledge to ensure correctness and integrity of encrypted inputs)
 * **[combining machine learning and homomorphic encryption in the apple ecosystem (2024)](https://machinelearning.apple.com/research/homomorphic-encryption)**
+* **[a fully homomorphic encryption scheme, by c. gentry (2009)](https://crypto.stanford.edu/craig/craig-thesis.pdf)**
 
 <br>
 
