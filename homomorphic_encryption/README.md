@@ -17,3 +17,9 @@
 #### cool talks
 
 * **[encrypted mempools: a path to ethereum l1, by m. harvey-hill](https://www.youtube.com/watch?v=mUoWwRoHrvk)**
+
+<br>
+
+#### cool resources
+
+* **[curated list on fully homomorphic encryption, by zama](https://github.com/zama-ai/awesome-zama?tab=readme-ov-file)**
