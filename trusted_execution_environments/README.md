@@ -68,10 +68,11 @@
 
 ##### offensive
 
+* **[securing tee apps: a developer's guide, by prateek et al. (2025)](https://www.bedlamresear.ch/posts/securing-tee-apps/)**
+* **[the 5 levels of secure hardware, by g. konstantopoulos (2024)](https://www.paradigm.xyz/2024/11/the-5-levels-of-secure-hardware)**
+* **[openai's take on ai infrastructure threat model (2024)](https://openai.com/index/reimagining-secure-infrastructure-for-advanced-ai/)**
 * **[using memory errors to attack a virtual machine, by govindavajhala et al.](https://www.cs.princeton.edu/~appel/papers/memerr.pdf)**
 * **ztee, trustless suply chains, by q. kilbourn: [part I](https://writings.flashbots.net/ZTEE) and [part II](https://writings.flashbots.net/ZTEE2-Supply-Chains)**
-* **[openai's take on ai infrastructure threat model](https://openai.com/index/reimagining-secure-infrastructure-for-advanced-ai/)**
-* **[the 5 levels of secure hardware, by g. konstantopoulos](https://www.paradigm.xyz/2024/11/the-5-levels-of-secure-hardware)**
 
 <br>
 
