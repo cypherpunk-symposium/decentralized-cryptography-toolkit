@@ -118,7 +118,9 @@
 
 #### fun
 
-* **[binius: highly efficient proofs over binary fields, by vub](https://vitalik.eth.limo/general/2024/04/29/binius.html)**
+* **[gwart and uma roy on zkvm with succinct labs (2025)](https://www.youtube.com/watch?v=7_n4QFT0_oA)**
+* **[gwart and eli ben-sasson on starkware, zk, and bitcoin (2025)](https://www.youtube.com/watch?v=_yp4eYK9S6M)**
+* **[binius: highly efficient proofs over binary fields, by vub (2024)](https://vitalik.eth.limo/general/2024/04/29/binius.html)**
 
 <br>
 
