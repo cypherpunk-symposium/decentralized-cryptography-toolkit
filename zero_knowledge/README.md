@@ -79,6 +79,7 @@
 * **[zeroing into zkvms, by taiko labs](https://taiko.mirror.xyz/e_5GeGGFJIrOxqvXOfzY6HmWcRjCjRyG0NQF1zbNpNQ)**
 * **[awesome zk list](https://github.com/ventali/awesome-zk)**
 * **[awesome starknet](https://github.com/keep-starknet-strange/awesome-starknet)**
+* **[some nice tricks and definitions utilized in plonk, by l. akselrod (2024)](https://mirror.xyz/lisaakselrod.eth/l65ftdvZDqJZJTIMlOK7YtZWKFTxLhNUiPj08nPB2aY)**
 
 <br>
 
