@@ -31,3 +31,14 @@
 <br>
 
 * **[mp-spdz, versatile framework for multi-party computation](https://github.com/data61/MP-SPDZ/tree/master?tab=readme-ov-file)** (benchmark several mpc protocols for several security models)
+
+
+<br>
+
+---
+
+### cool resources
+
+<br>
+
+* **[dark pools and renegade arch overview, by 2077](https://research.2077.xyz/the-hitchhikers-guide-to-dark-pools-in-defi-part-one)**
