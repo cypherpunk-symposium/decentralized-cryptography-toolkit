@@ -52,3 +52,11 @@
 
 * **[an introduction to cryptography, new and old, by atheartengineer et al. (2024)](https://www.youtube.com/watch?v=E6u3uQGP9J4)**
 * **[programmable cryptography devcon panel, by barry and gang (2024)](https://www.youtube.com/watch?v=S6ixhGBnvKc)**
+
+<br>
+
+#### poseidon
+
+* **[poseidon: a new hash function for zkp systems, by grassi et al. (2019)](https://eprint.iacr.org/2019/458.pdf)**
+* **[poseidon2: a faster version of the poseidon, by grassi et al. (2023)](https://eprint.iacr.org/2023/323.pdf)**
+* **[survey of attacks on poseidon and poseidon2, by grassi et al. (2024)](https://drive.google.com/file/d/1bqmIk5I8s-4S9TQJO0xk26fnSSU0q_Hx/view)**
