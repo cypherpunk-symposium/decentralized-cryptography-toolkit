@@ -78,6 +78,7 @@
 
 ##### on blockchains
 
+* **[tees: a primer, by a. shidham (2025)](https://a16zcrypto.com/posts/article/trusted-execution-environments-tees-primer/)**
 * **[the road towards an encrypted mempool on ethereum, by shutter (2025)](https://docs.shutter.network/docs/shutter/research/the_road_towards_an_encrypted_mempool_on_ethereum)**
 * **[demystifying remote attestation by taking it on-chain, by flashbots](https://collective.flashbots.net/t/demystifying-remote-attestation-by-taking-it-on-chain/2629)**
 * **[spacecoin, by d. bar et al. (leveraging satellite infra for tee-like functionality)](https://github.com/spacecoinxyz/research/blob/main/publications/Blue-Paper-Spacecoinxyz.pdf)**
