@@ -123,8 +123,16 @@
 * **[gwart and eli ben-sasson on starkware, zk, and bitcoin (2025)](https://www.youtube.com/watch?v=_yp4eYK9S6M)**
 * **[binius: highly efficient proofs over binary fields, by vub (2024)](https://vitalik.eth.limo/general/2024/04/29/binius.html)**
 
+
 <br>
 
 #### applications
 
 * **the state of zk applications in ethereum, by andyguzman.eth: [1](https://mirror.xyz/andyguzman.eth/p4nNk7Rr-2i-uZDO_lTHJEWtNv3nYt2N2z3Cwly8RHc) and [2](https://mirror.xyz/andyguzman.eth/ZZRLBlx2KjlNnQ84v1doMKg_8QO-XRjYxFfT1Fm_ZDw)**
+
+<br>
+
+#### real-time proving
+
+* **[a gkt tutorial, by vub (2025)](https://vitalik.eth.limo/general/2025/10/19/gkr.html)**
+  - "matrix multiplication is sexy!" - 8th grade teacher
